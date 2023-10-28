@@ -1,0 +1,376 @@
+{"Transactions":[{"transactionUUID":"b6955d0e-8772-4f20-aa85-7a88a27e39b7","accountUUID":"92321207","merchantUUID":"11","merchant":{"name":"McFairbank","category":"Food & Dining","description":"Fast food - but with interest.","pointOfSale":["Online","In-store"]},"amount":51.9,"creditDebitIndicator":"Debit","currency":"EUR","timestamp":"2023-05-23 00:46:09","emoji":"🥰","latitude":46.988825358863906,"longitude":10.124264897189796,"status":"Successful","message":"Food & Dining purchase of 51.9 (EUR, negative) at McFairbank","pointOfSale":"Online"}],"newBalance":518.17}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "f1ce89f6-fde8-49be-a4d6-eeb4cdd1d715",
+            "accountUUID": "92321207",
+            "merchantUUID": "15",
+            "merchant": {
+                "name": "Streetlamps",
+                "category": "Shopping",
+                "description": "Where do they actually come from? From us.",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": -100.4,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-10-03 16:37:50",
+            "emoji": "💩",
+            "latitude": 51.62666331755978,
+            "longitude": -0.6788111480791537,
+            "status": "Declined",
+            "message": "Weekly wage of 100.4 (GBP, positive) from Streetlamps",
+            "pointOfSale": "Online"
+        },
+        {
+            "transactionUUID": "8228eb2c-98a5-4e54-9e09-ea5006c33c36",
+            "accountUUID": "92321207",
+            "merchantUUID": "1",
+            "merchant": {
+                "name": "Blahbucks",
+                "category": "Food & Dining",
+                "description": "Supplying all your coffee needs",
+                "pointOfSale": [
+                    "In-store"
+                ]
+            },
+            "amount": -1.99,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-10-03 01:49:49",
+            "emoji": "😭",
+            "latitude": 55.19089332802084,
+            "longitude": -2.5841742002172823,
+            "status": "Declined",
+            "message": "Food & Dining refund of 1.99 (GBP, positive) from Blahbucks",
+            "pointOfSale": "In-store"
+        },
+        {
+            "transactionUUID": "016ebb24-3f48-47bd-9396-ca5ac5e29d2b",
+            "accountUUID": "92321207",
+            "merchantUUID": "14",
+            "merchant": {
+                "name": "Boardwalk Games",
+                "category": "Entertainment",
+                "description": "Events company specialising in board games near the sea.",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": 5.19,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-05-13 13:32:14",
+            "emoji": "💩",
+            "latitude": 53.86984993409152,
+            "longitude": -2.701886888834839,
+            "status": "Declined",
+            "message": "Entertainment purchase of 5.19 (GBP, negative) at Boardwalk Games",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 615.37
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "0ba2d17a-3847-48e0-b3ed-644427478c23",
+            "accountUUID": "92321207",
+            "merchantUUID": "7",
+            "merchant": {
+                "name": "Trees Trees Trees",
+                "category": "Education",
+                "description": "High quality readings, reports, documentaries on one topic: trees.",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": 17.77,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-07-18 05:10:29",
+            "emoji": "🥰",
+            "latitude": 54.65527155208394,
+            "longitude": -3.1292191898935355,
+            "status": "Successful",
+            "message": "Education purchase of 17.77 (GBP, negative) at Trees Trees Trees",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 597.6
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "99750264-9697-4094-8efa-d30c7bee5af6",
+            "accountUUID": "92321207",
+            "merchantUUID": "9",
+            "merchant": {
+                "name": "MoonHog",
+                "category": "Gifts & Donations",
+                "description": "Beautiful personal cards for every occasion.",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": 36.99,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-07-05 02:24:43",
+            "emoji": "😭",
+            "latitude": 52.7661150328604,
+            "longitude": -1.9358546748352208,
+            "status": "Declined",
+            "message": "Gifts & Donations purchase of 36.99 (GBP, negative) at MoonHog",
+            "pointOfSale": "Online"
+        },
+        {
+            "transactionUUID": "579d5c4c-12f3-4941-ac41-2ec809f1e6f3",
+            "accountUUID": "92321207",
+            "merchantUUID": "7",
+            "merchant": {
+                "name": "Trees Trees Trees",
+                "category": "Education",
+                "description": "High quality readings, reports, documentaries on one topic: trees.",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": 2.63,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-07-16 04:54:46",
+            "emoji": "😭",
+            "latitude": 54.940326870453816,
+            "longitude": -2.807891905214619,
+            "status": "Declined",
+            "message": "Education purchase of 2.63 (GBP, negative) at Trees Trees Trees",
+            "pointOfSale": "Online"
+        },
+        {
+            "transactionUUID": "77c5dd74-1f39-46b2-9781-dfc9435ba520",
+            "accountUUID": "92321207",
+            "merchantUUID": "9",
+            "merchant": {
+                "name": "MoonHog",
+                "category": "Gifts & Donations",
+                "description": "Beautiful personal cards for every occasion.",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": -8.99,
+            "creditDebitIndicator": "Credit",
+            "currency": "GBP",
+            "timestamp": "2023-07-04 20:13:48",
+            "emoji": "💩",
+            "latitude": 54.1209940349626,
+            "longitude": -1.9815576459154707,
+            "status": "Declined",
+            "message": "Gifts & Donations refund of 8.99 (GBP, positive) from MoonHog",
+            "pointOfSale": "Online"
+        },
+        {
+            "transactionUUID": "a42b00d9-22f2-498f-82ea-d7537d7fd570",
+            "accountUUID": "92321207",
+            "merchantUUID": "15",
+            "merchant": {
+                "name": "Streetlamps",
+                "category": "Shopping",
+                "description": "Where do they actually come from? From us.",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": -55.78,
+            "creditDebitIndicator": "Credit",
+            "currency": "GBP",
+            "timestamp": "2023-10-21 13:42:37",
+            "emoji": "😭",
+            "latitude": 53.41697029049601,
+            "longitude": -3.327293290780455,
+            "status": "Declined",
+            "message": "Shopping refund of 55.78 (GBP, positive) from Streetlamps",
+            "pointOfSale": "Online"
+        },
+        {
+            "transactionUUID": "59c80819-3e8a-4216-9a1b-f5bef70b4e56",
+            "accountUUID": "92321207",
+            "merchantUUID": "11",
+            "merchant": {
+                "name": "McFairbank",
+                "category": "Food & Dining",
+                "description": "Fast food - but with interest.",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": 103.19,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-07-05 10:37:45",
+            "emoji": "💩",
+            "latitude": 54.58602724485214,
+            "longitude": -2.4173796968077204,
+            "status": "Declined",
+            "message": "Food & Dining purchase of 103.19 (GBP, negative) at McFairbank",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 519.56
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "3249b5bc-fc3b-4e9a-8222-7ef1abac52a3",
+            "accountUUID": "92321207",
+            "merchantUUID": "3",
+            "merchant": {
+                "name": "Xenoxx Corporation",
+                "category": "Entertainment",
+                "description": "Your local, friendly megacorporation",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": -65.84,
+            "creditDebitIndicator": "Debit",
+            "currency": "EUR",
+            "timestamp": "2023-08-24 02:04:36",
+            "emoji": "🥰",
+            "latitude": 46.499914761044394,
+            "longitude": 11.390406977500522,
+            "status": "Successful",
+            "message": "Entertainment refund of 65.84 (EUR, positive) from Xenoxx Corporation",
+            "pointOfSale": "In-store"
+        }
+    ],
+    "newBalance": 585.4
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "f80a78a7-82f4-48d9-917d-8f889cc0f5d6",
+            "accountUUID": "92321207",
+            "merchantUUID": "13",
+            "merchant": {
+                "name": "Masalas",
+                "category": "Shopping",
+                "description": "PCs, appliances, TVs at amazing prices!",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": -96.88,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-09-17 16:11:10",
+            "emoji": "🤑",
+            "latitude": 52.70782571145097,
+            "longitude": -1.8700050244554085,
+            "status": "Successful",
+            "message": "Shopping refund of 96.88 (GBP, positive) from Masalas",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 605.38
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "a86667d9-2ad8-4b17-be41-41356d90684a",
+            "accountUUID": "92321207",
+            "merchantUUID": "14",
+            "merchant": {
+                "name": "Boardwalk Games",
+                "category": "Entertainment",
+                "description": "Events company specialising in board games near the sea.",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": 254.21,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-08-13 14:06:34",
+            "emoji": "💸",
+            "latitude": 53.0216555535342,
+            "longitude": -2.0141013525188467,
+            "status": "Successful",
+            "message": "Entertainment purchase of 254.21 (GBP, negative) at Boardwalk Games",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 351.17
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "32f08e11-ba35-42a6-951c-a99ebaecb4b4",
+            "accountUUID": "92321207",
+            "merchantUUID": "2",
+            "merchant": {
+                "name": "Vapour",
+                "category": "Entertainment",
+                "description": "The World's #1 Game Store",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": -546.54,
+            "creditDebitIndicator": "Debit",
+            "currency": "AUD",
+            "timestamp": "2023-10-23 19:27:37",
+            "emoji": "💸",
+            "latitude": -23.552779962673522,
+            "longitude": 138.26747876451282,
+            "status": "Successful",
+            "message": "Monthly salary of 546.54 (AUD, positive) from Vapour",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 1115.96
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "a6ab8934-161b-4676-acc7-53a98aaf51af",
+            "accountUUID": "92321207",
+            "merchantUUID": "2",
+            "merchant": {
+                "name": "Vapour",
+                "category": "Entertainment",
+                "description": "The World's #1 Game Store",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": 525.31,
+            "creditDebitIndicator": "Debit",
+            "currency": "EUR",
+            "timestamp": "2023-10-16 12:13:37",
+            "emoji": "🤑",
+            "latitude": 42.85927153827957,
+            "longitude": 0.5035008034984605,
+            "status": "Successful",
+            "message": "Entertainment purchase of 525.31 (EUR, negative) at Vapour",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 590.65
+}

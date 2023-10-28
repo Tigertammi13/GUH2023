@@ -1,0 +1,417 @@
+{"Transactions":[{"transactionUUID":"d55f6a82-9544-4edb-85df-23c7df4af8de","accountUUID":"64311766","merchantUUID":"15","merchant":{"name":"Streetlamps","category":"Shopping","description":"Where do they actually come from? From us.","pointOfSale":["Online","In-store"]},"amount":-49.99,"creditDebitIndicator":"Credit","currency":"CAD","timestamp":"2023-08-20 05:07:53","emoji":"🤑","latitude":60.286642920417414,"longitude":-102.62035875781085,"status":"Successful","message":"Shopping refund of 49.99 (CAD, positive) from Streetlamps","pointOfSale":"Online"}],"newBalance":1267.24}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "45e6fae0-db3b-4d85-91c8-828c12c02a3c",
+            "accountUUID": "64311766",
+            "merchantUUID": "5",
+            "merchant": {
+                "name": "Capital Two",
+                "category": "Bills & Utilities",
+                "description": "Credit Card Company",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": -85.06,
+            "creditDebitIndicator": "Credit",
+            "currency": "GBP",
+            "timestamp": "2023-09-05 03:56:34",
+            "emoji": "🤑",
+            "latitude": 53.157218434143914,
+            "longitude": -3.1996557352614494,
+            "status": "Successful",
+            "message": "Bills & Utilities refund of 85.06 (GBP, positive) from Capital Two",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 1352.3
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "d2665ac4-d545-4eed-bd58-e531c70a5d13",
+            "accountUUID": "64311766",
+            "merchantUUID": "10",
+            "merchant": {
+                "name": "Car Stickers",
+                "category": "Auto & Transport",
+                "description": "High quality car racing stickers, that are used at races.",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": 10.47,
+            "creditDebitIndicator": "Credit",
+            "currency": "GBP",
+            "timestamp": "2023-10-16 19:43:27",
+            "emoji": "🤑",
+            "latitude": 55.503646286183525,
+            "longitude": -2.630926495451013,
+            "status": "Successful",
+            "message": "Auto & Transport purchase of 10.47 (GBP, negative) at Car Stickers",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 1341.83
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "84ff6449-84cf-487a-b5df-133015e13fe9",
+            "accountUUID": "64311766",
+            "merchantUUID": "6",
+            "merchant": {
+                "name": "Glamazon",
+                "category": "Shopping",
+                "description": "One stop shop for all your glamorous items.",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": -14.6,
+            "creditDebitIndicator": "Credit",
+            "currency": "GBP",
+            "timestamp": "2023-08-13 11:02:38",
+            "emoji": "💸",
+            "latitude": 53.211144477767576,
+            "longitude": -0.6427565997584845,
+            "status": "Successful",
+            "message": "Shopping refund of 14.6 (GBP, positive) from Glamazon",
+            "pointOfSale": "In-store"
+        }
+    ],
+    "newBalance": 1356.43
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "8a4b83de-3075-4f94-bf9d-ea0c6238f96e",
+            "accountUUID": "64311766",
+            "merchantUUID": "13",
+            "merchant": {
+                "name": "Masalas",
+                "category": "Shopping",
+                "description": "PCs, appliances, TVs at amazing prices!",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": -221.28,
+            "creditDebitIndicator": "Debit",
+            "currency": "CAD",
+            "timestamp": "2023-10-18 19:19:15",
+            "emoji": "💸",
+            "latitude": 62.12236444161695,
+            "longitude": -115.55026207809739,
+            "status": "Successful",
+            "message": "Weekly wage of 221.28 (CAD, positive) from Masalas",
+            "pointOfSale": "In-store"
+        }
+    ],
+    "newBalance": 1577.71
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "215a1c53-df2f-4b25-9b02-c87d6944e3f6",
+            "accountUUID": "64311766",
+            "merchantUUID": "13",
+            "merchant": {
+                "name": "Masalas",
+                "category": "Shopping",
+                "description": "PCs, appliances, TVs at amazing prices!",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": 160.38,
+            "creditDebitIndicator": "Credit",
+            "currency": "GBP",
+            "timestamp": "2023-10-12 03:47:57",
+            "emoji": "💸",
+            "latitude": 53.810922942862085,
+            "longitude": -3.1809614340585806,
+            "status": "Successful",
+            "message": "Shopping purchase of 160.38 (GBP, negative) at Masalas",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 1417.33
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "6fd26643-dcda-44ff-884f-c84e7edbadbc",
+            "accountUUID": "64311766",
+            "merchantUUID": "1",
+            "merchant": {
+                "name": "Blahbucks",
+                "category": "Food & Dining",
+                "description": "Supplying all your coffee needs",
+                "pointOfSale": [
+                    "In-store"
+                ]
+            },
+            "amount": -30.61,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-07-25 11:46:16",
+            "emoji": "🤑",
+            "latitude": 54.706198802996745,
+            "longitude": -1.508343331588298,
+            "status": "Successful",
+            "message": "Food & Dining refund of 30.61 (GBP, positive) from Blahbucks",
+            "pointOfSale": "In-store"
+        }
+    ],
+    "newBalance": 1447.94
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "83061741-0fe1-43a4-a30d-7afa0919a2bc",
+            "accountUUID": "64311766",
+            "merchantUUID": "10",
+            "merchant": {
+                "name": "Car Stickers",
+                "category": "Auto & Transport",
+                "description": "High quality car racing stickers, that are used at races.",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": -438.12,
+            "creditDebitIndicator": "Credit",
+            "currency": "CAD",
+            "timestamp": "2023-07-20 03:21:14",
+            "emoji": "🥰",
+            "latitude": 51.21842213370051,
+            "longitude": -98.85297467067991,
+            "status": "Successful",
+            "message": "Weekly wage of 438.12 (CAD, positive) from Car Stickers",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 1886.06
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "cceb316b-d2f0-4793-8a7a-2764731625f1",
+            "accountUUID": "64311766",
+            "merchantUUID": "3",
+            "merchant": {
+                "name": "Xenoxx Corporation",
+                "category": "Entertainment",
+                "description": "Your local, friendly megacorporation",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": 159.99,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-09-11 02:40:33",
+            "emoji": "🤑",
+            "latitude": 52.770447917529154,
+            "longitude": -1.8790394382601185,
+            "status": "Successful",
+            "message": "Entertainment purchase of 159.99 (GBP, negative) at Xenoxx Corporation",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 1726.07
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "b3c42b6f-6941-43c4-9a01-efe172e864c0",
+            "accountUUID": "64311766",
+            "merchantUUID": "8",
+            "merchant": {
+                "name": "Fact News",
+                "category": "Education",
+                "description": "News with only facts",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": 91.4,
+            "creditDebitIndicator": "Debit",
+            "currency": "AUD",
+            "timestamp": "2023-08-13 11:34:40",
+            "emoji": "🤑",
+            "latitude": -30.884929183097103,
+            "longitude": 134.74443198825665,
+            "status": "Successful",
+            "message": "Education purchase of 91.4 (AUD, negative) at Fact News",
+            "pointOfSale": "In-store"
+        }
+    ],
+    "newBalance": 1634.67
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "58d856e7-4f64-4bfa-bca1-e5d80e18750f",
+            "accountUUID": "64311766",
+            "merchantUUID": "3",
+            "merchant": {
+                "name": "Xenoxx Corporation",
+                "category": "Entertainment",
+                "description": "Your local, friendly megacorporation",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": 1121.76,
+            "creditDebitIndicator": "Credit",
+            "currency": "MYR",
+            "timestamp": "2023-05-10 13:00:30",
+            "emoji": "💸",
+            "latitude": 4.021270487607355,
+            "longitude": 102.49195787596528,
+            "status": "Successful",
+            "message": "Entertainment purchase of 1121.76 (MYR, negative) at Xenoxx Corporation",
+            "pointOfSale": "In-store"
+        }
+    ],
+    "newBalance": 512.91
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "4d48cc81-aa1b-4829-9b82-b6c17ac46742",
+            "accountUUID": "64311766",
+            "merchantUUID": "14",
+            "merchant": {
+                "name": "Boardwalk Games",
+                "category": "Entertainment",
+                "description": "Events company specialising in board games near the sea.",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": -274.19,
+            "creditDebitIndicator": "Credit",
+            "currency": "GBP",
+            "timestamp": "2023-08-10 05:36:20",
+            "emoji": "🤑",
+            "latitude": 53.44468422217691,
+            "longitude": -1.958658027333038,
+            "status": "Successful",
+            "message": "Weekly wage of 274.19 (GBP, positive) from Boardwalk Games",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 787.1
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "16158b40-603d-4d46-ac7d-ecbc2ebfebcc",
+            "accountUUID": "64311766",
+            "merchantUUID": "3",
+            "merchant": {
+                "name": "Xenoxx Corporation",
+                "category": "Entertainment",
+                "description": "Your local, friendly megacorporation",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": -230.99,
+            "creditDebitIndicator": "Credit",
+            "currency": "GBP",
+            "timestamp": "2023-10-05 21:07:05",
+            "emoji": "🥰",
+            "latitude": 54.75391924067463,
+            "longitude": -2.0590703659713414,
+            "status": "Successful",
+            "message": "Weekly wage of 230.99 (GBP, positive) from Xenoxx Corporation",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 1018.09
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "bcef9247-9fd4-458f-b8d1-a0b73c8b7f70",
+            "accountUUID": "64311766",
+            "merchantUUID": "2",
+            "merchant": {
+                "name": "Vapour",
+                "category": "Entertainment",
+                "description": "The World's #1 Game Store",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": -199.99,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-06-07 21:41:28",
+            "emoji": "🥰",
+            "latitude": 53.45937461001837,
+            "longitude": -2.878712399618948,
+            "status": "Successful",
+            "message": "Weekly wage of 199.99 (GBP, positive) from Vapour",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 1218.08
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "80dc8588-dd80-4c7a-a8f2-87a7c38709fc",
+            "accountUUID": "64311766",
+            "merchantUUID": "4",
+            "merchant": {
+                "name": "Pear Retail",
+                "category": "Shopping",
+                "description": "Computers, phones and other shiny electrical things",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": -102.1,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-05-21 16:16:08",
+            "emoji": "💸",
+            "latitude": 52.546120219913405,
+            "longitude": -2.5776862825488687,
+            "status": "Successful",
+            "message": "Weekly wage of 102.1 (GBP, positive) from Pear Retail",
+            "pointOfSale": "In-store"
+        }
+    ],
+    "newBalance": 1320.18
+}

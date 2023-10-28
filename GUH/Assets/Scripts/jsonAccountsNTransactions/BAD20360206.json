@@ -1,0 +1,60 @@
+{"Transactions":[{"transactionUUID":"0641a151-03ef-48ac-9c42-e566dd747a60","accountUUID":"20360206","merchantUUID":"4","merchant":{"name":"Pear Retail","category":"Shopping","description":"Computers, phones and other shiny electrical things","pointOfSale":["Online","In-store"]},"amount":-201.29,"creditDebitIndicator":"Debit","currency":"GBP","timestamp":"2023-07-22 14:22:48","emoji":"😭","latitude":52.86109314048868,"longitude":-1.8728627784523362,"status":"Declined","message":"Weekly wage of 201.29 (GBP, positive) from Pear Retail","pointOfSale":"In-store"},{"transactionUUID":"00600620-550d-4bb1-b80b-af1a069d646c","accountUUID":"20360206","merchantUUID":"6","merchant":{"name":"Glamazon","category":"Shopping","description":"One stop shop for all your glamorous items.","pointOfSale":["Online","In-store"]},"amount":-133.99,"creditDebitIndicator":"Credit","currency":"GBP","timestamp":"2023-08-19 23:40:18","emoji":"😭","latitude":54.53403702087008,"longitude":-2.4544236410509574,"status":"Declined","message":"Weekly wage of 133.99 (GBP, positive) from Glamazon","pointOfSale":"In-store"},{"transactionUUID":"4ab08162-095b-44e2-8779-b04b7aec8a67","accountUUID":"20360206","merchantUUID":"9","merchant":{"name":"MoonHog","category":"Gifts & Donations","description":"Beautiful personal cards for every occasion.","pointOfSale":["Online"]},"amount":-793.08,"creditDebitIndicator":"Debit","currency":"GBP","timestamp":"2023-09-05 05:39:16","emoji":"💩","latitude":51.69143906323075,"longitude":-3.608133112109647,"status":"Declined","message":"Monthly salary of 793.08 (GBP, positive) from MoonHog","pointOfSale":"Online"},{"transactionUUID":"02a04690-f006-480f-bb5d-ee456d585fac","accountUUID":"20360206","merchantUUID":"15","merchant":{"name":"Streetlamps","category":"Shopping","description":"Where do they actually come from? From us.","pointOfSale":["Online","In-store"]},"amount":409.99,"creditDebitIndicator":"Debit","currency":"GBP","timestamp":"2023-09-28 06:54:13","emoji":"💩","latitude":53.97184947018183,"longitude":-3.2037965951539524,"status":"Declined","message":"Shopping purchase of 409.99 (GBP, negative) at Streetlamps","pointOfSale":"In-store"},{"transactionUUID":"2edad140-efab-4733-8071-94bc5a96463b","accountUUID":"20360206","merchantUUID":"8","merchant":{"name":"Fact News","category":"Education","description":"News with only facts","pointOfSale":["Online","In-store"]},"amount":147.77,"creditDebitIndicator":"Credit","currency":"GBP","timestamp":"2023-09-25 18:29:03","emoji":"💩","latitude":53.903565451819915,"longitude":-0.7021256102763429,"status":"Declined","message":"Education purchase of 147.77 (GBP, negative) at Fact News","pointOfSale":"In-store"},{"transactionUUID":"1892144a-981d-48b9-bef3-550ddfe6dca0","accountUUID":"20360206","merchantUUID":"1","merchant":{"name":"Blahbucks","category":"Food & Dining","description":"Supplying all your coffee needs","pointOfSale":["In-store"]},"amount":133.63,"creditDebitIndicator":"Debit","currency":"GBP","timestamp":"2023-09-02 06:48:34","emoji":"😭","latitude":55.39589662090016,"longitude":-3.271550264691088,"status":"Declined","message":"Food & Dining purchase of 133.63 (GBP, negative) at Blahbucks","pointOfSale":"In-store"},{"transactionUUID":"42c708c2-0c98-4129-87e0-a44c33e56e54","accountUUID":"20360206","merchantUUID":"10","merchant":{"name":"Car Stickers","category":"Auto & Transport","description":"High quality car racing stickers, that are used at races.","pointOfSale":["Online","In-store"]},"amount":-2.01,"creditDebitIndicator":"Debit","currency":"GBP","timestamp":"2023-07-09 11:22:28","emoji":"😭","latitude":53.703019800166224,"longitude":-1.4065710246139902,"status":"Declined","message":"Auto & Transport refund of 2.01 (GBP, positive) from Car Stickers","pointOfSale":"In-store"},{"transactionUUID":"1caf1409-b32b-4801-9877-8788e215a70e","accountUUID":"20360206","merchantUUID":"3","merchant":{"name":"Xenoxx Corporation","category":"Entertainment","description":"Your local, friendly megacorporation","pointOfSale":["Online","In-store"]},"amount":-2.26,"creditDebitIndicator":"Credit","currency":"GBP","timestamp":"2023-07-18 02:50:05","emoji":"😭","latitude":55.12188956868936,"longitude":-3.284555763789542,"status":"Declined","message":"Entertainment refund of 2.26 (GBP, positive) from Xenoxx Corporation","pointOfSale":"In-store"},{"transactionUUID":"969ea3e4-8cac-49e5-b232-22381fe8a23f","accountUUID":"20360206","merchantUUID":"6","merchant":{"name":"Glamazon","category":"Shopping","description":"One stop shop for all your glamorous items.","pointOfSale":["Online","In-store"]},"amount":58.87,"creditDebitIndicator":"Credit","currency":"GBP","timestamp":"2023-09-22 04:07:28","emoji":"💩","latitude":54.48243947455205,"longitude":-2.35774980886285,"status":"Declined","message":"Shopping purchase of 58.87 (GBP, negative) at Glamazon","pointOfSale":"Online"},{"transactionUUID":"c5348a74-0102-4d43-9c12-449ac374a577","accountUUID":"20360206","merchantUUID":"12","merchant":{"name":"CatShoes","category":"Personal Care","description":"Purrfectly fitted moccasins for your kittens.","pointOfSale":["Online"]},"amount":109.99,"creditDebitIndicator":"Credit","currency":"GBP","timestamp":"2023-06-05 22:42:48","emoji":"😭","latitude":54.36163396101519,"longitude":-2.137188784253441,"status":"Declined","message":"Personal Care purchase of 109.99 (GBP, negative) at CatShoes","pointOfSale":"Online"},{"transactionUUID":"365e7413-92c2-4f1b-b370-d8955e090b1d","accountUUID":"20360206","merchantUUID":"3","merchant":{"name":"Xenoxx Corporation","category":"Entertainment","description":"Your local, friendly megacorporation","pointOfSale":["Online","In-store"]},"amount":-89.99,"creditDebitIndicator":"Credit","currency":"GBP","timestamp":"2023-07-06 12:56:05","emoji":"💩","latitude":52.557225067791045,"longitude":-2.01791885835561,"status":"Declined","message":"Entertainment refund of 89.99 (GBP, positive) from Xenoxx Corporation","pointOfSale":"In-store"},{"transactionUUID":"28b4bc4f-59bd-4e5c-8676-475b537d45a7","accountUUID":"20360206","merchantUUID":"11","merchant":{"name":"McFairbank","category":"Food & Dining","description":"Fast food - but with interest.","pointOfSale":["Online","In-store"]},"amount":-7.99,"creditDebitIndicator":"Debit","currency":"GBP","timestamp":"2023-08-14 12:24:49","emoji":"💩","latitude":54.36995755222351,"longitude":-2.907341720989104,"status":"Declined","message":"Food & Dining refund of 7.99 (GBP, positive) from McFairbank","pointOfSale":"In-store"},{"transactionUUID":"3623f8d7-53e1-4618-aa43-3cca913bda7c","accountUUID":"20360206","merchantUUID":"8","merchant":{"name":"Fact News","category":"Education","description":"News with only facts","pointOfSale":["Online","In-store"]},"amount":-13.27,"creditDebitIndicator":"Credit","currency":"GBP","timestamp":"2023-09-10 22:49:54","emoji":"💩","latitude":53.9415697334039,"longitude":-3.2309216209914595,"status":"Declined","message":"Education refund of 13.27 (GBP, positive) from Fact News","pointOfSale":"In-store"}],"newBalance":1093.1}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "58bfd895-e67b-4909-b1fd-98da21d259c6",
+            "accountUUID": "20360206",
+            "merchantUUID": "14",
+            "merchant": {
+                "name": "Boardwalk Games",
+                "category": "Entertainment",
+                "description": "Events company specialising in board games near the sea.",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": 54.71,
+            "creditDebitIndicator": "Credit",
+            "currency": "GBP",
+            "timestamp": "2023-09-15 14:06:10",
+            "emoji": "🤑",
+            "latitude": 52.0900680613741,
+            "longitude": -2.7207581106950207,
+            "status": "Successful",
+            "message": "Entertainment purchase of 54.71 (GBP, negative) at Boardwalk Games",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 1058.64
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "42614858-1cc4-42e6-a095-6c79b6181d3c",
+            "accountUUID": "20360206",
+            "merchantUUID": "6",
+            "merchant": {
+                "name": "Glamazon",
+                "category": "Shopping",
+                "description": "One stop shop for all your glamorous items.",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": -4.99,
+            "creditDebitIndicator": "Debit",
+            "currency": "USD",
+            "timestamp": "2023-06-18 18:13:43",
+            "emoji": "🤑",
+            "latitude": 42.76311469223282,
+            "longitude": -119.51372577833308,
+            "status": "Successful",
+            "message": "Shopping refund of 4.99 (USD, positive) from Glamazon",
+            "pointOfSale": "In-store"
+        }
+    ],
+    "newBalance": 1063.63
+}

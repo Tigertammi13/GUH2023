@@ -1,0 +1,207 @@
+{"Transactions":[{"transactionUUID":"b67f8f18-28bd-4ac3-a72d-dadaebb99d4c","accountUUID":"87933488","merchantUUID":"4","merchant":{"name":"Pear Retail","category":"Shopping","description":"Computers, phones and other shiny electrical things","pointOfSale":["Online","In-store"]},"amount":-193.61,"creditDebitIndicator":"Credit","currency":"GBP","timestamp":"2023-09-03 23:18:40","emoji":"💩","latitude":52.94253804069246,"longitude":-1.6187638998167442,"status":"Declined","message":"Weekly wage of 193.61 (GBP, positive) from Pear Retail","pointOfSale":"Online"},{"transactionUUID":"2c017686-e235-4735-9db0-a97fd6cdf2f2","accountUUID":"87933488","merchantUUID":"12","merchant":{"name":"CatShoes","category":"Personal Care","description":"Purrfectly fitted moccasins for your kittens.","pointOfSale":["Online"]},"amount":-112.09,"creditDebitIndicator":"Debit","currency":"GBP","timestamp":"2023-08-17 14:51:28","emoji":"😭","latitude":51.801004412652695,"longitude":-0.6564371241657232,"status":"Declined","message":"Weekly wage of 112.09 (GBP, positive) from CatShoes","pointOfSale":"Online"},{"transactionUUID":"e0c763a6-32e3-441f-98ca-31ffa5f74ec8","accountUUID":"87933488","merchantUUID":"2","merchant":{"name":"Vapour","category":"Entertainment","description":"The World's #1 Game Store","pointOfSale":["Online"]},"amount":69.99,"creditDebitIndicator":"Credit","currency":"GBP","timestamp":"2023-05-09 23:27:22","emoji":"😭","latitude":52.60679547233766,"longitude":-1.9080809334740414,"status":"Declined","message":"Entertainment purchase of 69.99 (GBP, negative) at Vapour","pointOfSale":"Online"},{"transactionUUID":"4689f8ae-ba0e-4b86-bdb0-e05945c6fa8e","accountUUID":"87933488","merchantUUID":"9","merchant":{"name":"MoonHog","category":"Gifts & Donations","description":"Beautiful personal cards for every occasion.","pointOfSale":["Online"]},"amount":-69.99,"creditDebitIndicator":"Credit","currency":"GBP","timestamp":"2023-09-25 10:02:18","emoji":"😭","latitude":53.712585137211754,"longitude":-1.6355088799679338,"status":"Declined","message":"Gifts & Donations refund of 69.99 (GBP, positive) from MoonHog","pointOfSale":"Online"},{"transactionUUID":"76afdd94-361e-4a98-b610-a8993e8c5a31","accountUUID":"87933488","merchantUUID":"5","merchant":{"name":"Capital Two","category":"Bills & Utilities","description":"Credit Card Company","pointOfSale":["Online"]},"amount":-59.99,"creditDebitIndicator":"Debit","currency":"GBP","timestamp":"2023-06-25 19:21:26","emoji":"💩","latitude":54.11184299014967,"longitude":-2.47132025585707,"status":"Declined","message":"Bills & Utilities refund of 59.99 (GBP, positive) from Capital Two","pointOfSale":"Online"},{"transactionUUID":"9d899517-a0d0-4d63-b52f-86b35508eab8","accountUUID":"87933488","merchantUUID":"10","merchant":{"name":"Car Stickers","category":"Auto & Transport","description":"High quality car racing stickers, that are used at races.","pointOfSale":["Online","In-store"]},"amount":-43,"creditDebitIndicator":"Debit","currency":"GBP","timestamp":"2023-10-06 08:39:50","emoji":"💩","latitude":54.47088215490725,"longitude":-3.025824083662747,"status":"Declined","message":"Auto & Transport refund of 43.0 (GBP, positive) from Car Stickers","pointOfSale":"Online"},{"transactionUUID":"fd15f4a2-c4b2-49f4-91c2-a9f9dd01e13d","accountUUID":"87933488","merchantUUID":"8","merchant":{"name":"Fact News","category":"Education","description":"News with only facts","pointOfSale":["Online","In-store"]},"amount":35.1,"creditDebitIndicator":"Credit","currency":"GBP","timestamp":"2023-08-04 20:26:30","emoji":"💩","latitude":54.050187961938775,"longitude":-0.9281486869225593,"status":"Declined","message":"Education purchase of 35.1 (GBP, negative) at Fact News","pointOfSale":"Online"},{"transactionUUID":"a7732e6b-102d-4005-baf5-158f82370d26","accountUUID":"87933488","merchantUUID":"4","merchant":{"name":"Pear Retail","category":"Shopping","description":"Computers, phones and other shiny electrical things","pointOfSale":["Online","In-store"]},"amount":-22.9,"creditDebitIndicator":"Debit","currency":"GBP","timestamp":"2023-08-04 00:32:01","emoji":"😭","latitude":53.1918228086148,"longitude":-2.8504303898814514,"status":"Declined","message":"Shopping refund of 22.9 (GBP, positive) from Pear Retail","pointOfSale":"In-store"}],"newBalance":1492.49}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "785b2b85-e23e-4e51-97fc-b16626f604dd",
+            "accountUUID": "87933488",
+            "merchantUUID": "14",
+            "merchant": {
+                "name": "Boardwalk Games",
+                "category": "Entertainment",
+                "description": "Events company specialising in board games near the sea.",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": 15.8,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-07-26 22:32:02",
+            "emoji": "🤑",
+            "latitude": 52.23840601398409,
+            "longitude": -2.3827788890182053,
+            "status": "Successful",
+            "message": "Entertainment purchase of 15.8 (GBP, negative) at Boardwalk Games",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 1476.69
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "0783188c-d6c2-4686-93df-b33dc5d67bd6",
+            "accountUUID": "87933488",
+            "merchantUUID": "12",
+            "merchant": {
+                "name": "CatShoes",
+                "category": "Personal Care",
+                "description": "Purrfectly fitted moccasins for your kittens.",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": 139.58,
+            "creditDebitIndicator": "Credit",
+            "currency": "EUR",
+            "timestamp": "2023-06-28 20:22:58",
+            "emoji": "🤑",
+            "latitude": 46.676647271540084,
+            "longitude": 10.01951007236444,
+            "status": "Successful",
+            "message": "Personal Care purchase of 139.58 (EUR, negative) at CatShoes",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 1789.1
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "9b2b3bb9-8bba-4277-8adf-802e8642119e",
+            "accountUUID": "87933488",
+            "merchantUUID": "13",
+            "merchant": {
+                "name": "Masalas",
+                "category": "Shopping",
+                "description": "PCs, appliances, TVs at amazing prices!",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": 76.99,
+            "creditDebitIndicator": "Credit",
+            "currency": "GBP",
+            "timestamp": "2023-06-18 02:47:39",
+            "emoji": "💸",
+            "latitude": 52.83565604446044,
+            "longitude": -2.385314487742131,
+            "status": "Successful",
+            "message": "Shopping purchase of 76.99 (GBP, negative) at Masalas",
+            "pointOfSale": "In-store"
+        }
+    ],
+    "newBalance": 1712.11
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "c11c068c-13c9-4977-85ec-3d6ec330d4a6",
+            "accountUUID": "87933488",
+            "merchantUUID": "4",
+            "merchant": {
+                "name": "Pear Retail",
+                "category": "Shopping",
+                "description": "Computers, phones and other shiny electrical things",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": 51.99,
+            "creditDebitIndicator": "Credit",
+            "currency": "GBP",
+            "timestamp": "2023-08-27 23:50:42",
+            "emoji": "🥰",
+            "latitude": 52.5557502667593,
+            "longitude": -2.2998180812786684,
+            "status": "Successful",
+            "message": "Shopping purchase of 51.99 (GBP, negative) at Pear Retail",
+            "pointOfSale": "In-store"
+        }
+    ],
+    "newBalance": 1660.12
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "1b9ff705-fb02-4467-917b-f9e3ead17e3a",
+            "accountUUID": "87933488",
+            "merchantUUID": "6",
+            "merchant": {
+                "name": "Glamazon",
+                "category": "Shopping",
+                "description": "One stop shop for all your glamorous items.",
+                "pointOfSale": [
+                    "Online",
+                    "In-store"
+                ]
+            },
+            "amount": -15.03,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-06-08 19:28:33",
+            "emoji": "🤑",
+            "latitude": 53.35508334764223,
+            "longitude": -1.7685216489440636,
+            "status": "Successful",
+            "message": "Shopping refund of 15.03 (GBP, positive) from Glamazon",
+            "pointOfSale": "In-store"
+        }
+    ],
+    "newBalance": 1543.02
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "9111f55b-9d52-49f6-a10d-0b3d4277fbff",
+            "accountUUID": "87933488",
+            "merchantUUID": "7",
+            "merchant": {
+                "name": "Trees Trees Trees",
+                "category": "Education",
+                "description": "High quality readings, reports, documentaries on one topic: trees.",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": -9.99,
+            "creditDebitIndicator": "Debit",
+            "currency": "GBP",
+            "timestamp": "2023-05-10 05:47:25",
+            "emoji": "🤑",
+            "latitude": 53.4077206080113,
+            "longitude": -2.0778045083693137,
+            "status": "Successful",
+            "message": "Education refund of 9.99 (GBP, positive) from Trees Trees Trees",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 1553.01
+}
+
+{
+    "Transactions": [
+        {
+            "transactionUUID": "1950774c-e358-4125-8cf1-e7e796474c2a",
+            "accountUUID": "87933488",
+            "merchantUUID": "14",
+            "merchant": {
+                "name": "Boardwalk Games",
+                "category": "Entertainment",
+                "description": "Events company specialising in board games near the sea.",
+                "pointOfSale": [
+                    "Online"
+                ]
+            },
+            "amount": -29.99,
+            "creditDebitIndicator": "Debit",
+            "currency": "INR",
+            "timestamp": "2023-09-09 19:28:22",
+            "emoji": "🥰",
+            "latitude": 25.999134016170355,
+            "longitude": 79.16012918070265,
+            "status": "Successful",
+            "message": "Entertainment refund of 29.99 (INR, positive) from Boardwalk Games",
+            "pointOfSale": "Online"
+        }
+    ],
+    "newBalance": 1583
+}
