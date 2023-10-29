@@ -8,13 +8,15 @@ public class TableTransactionContainer: MonoBehaviour
 {
     // Start is called before the first frame update
     int number;
-    List<TextMeshPro> textProList;
+    List<GameObject> columns;
    
     void start()
     {
         Repository.loadData();
-        textProList = new List<TextMeshPro>();
         number = 0;
+        columns = new List<GameObject>();
+        for (int i = 0; i < gameObject.transform.childCount; i++)
+            columns.Add(gameObject.transform.GetChild(i).gameObject);
         
     }
     
@@ -31,18 +33,40 @@ public class TableTransactionContainer: MonoBehaviour
         this.gameObject.SetActive(false);
     }
 
+    void clearTable()
+    {
+        columns[0].GetComponent<TextMeshPro>().text = "Merchant";
+        columns[1].GetComponent<TextMeshPro>().text = "Amount";
+        columns[2].GetComponent<TextMeshPro>().text = "Currency";
+        columns[3].GetComponent<TextMeshPro>().text = "Date";
+    }
+
     void addTransaction(Transaction transaction) {
-        TextMeshPro tmp=new TextMeshPro();
-        tmp.text = transaction.merchant.name + ' ' + transaction.amount + " " + transaction.currency + " " + transaction.timestamp;
-        textProList.Add(tmp);
+        columns[0].GetComponent<TextMeshPro>().text+="\n" + transaction.merchant.name;
+        columns[1].GetComponent<TextMeshPro>().text+="\n" + transaction.amount.ToString();
+        columns[2].GetComponent<TextMeshPro>().text+="\n" + transaction.currency;
+        columns[3].GetComponent<TextMeshPro>().text+="\n" + transaction.timestamp;
+        
     }
     void loadTransaction(string accountID)
     {
-        foreach (Transaction transaction in Repository.transactions)
+        Debug.Log("We are at loading");
+        foreach (Transaction transaction in Repository.transactions.transactions)
         {
-            if(transaction.accountUUID = accountID)
+            Debug.Log(transaction.accountUUID);
+            if(transaction.accountUUID == accountID)
             {
-                addTransaction(transaction);            }
+                Debug.Log("YES");
+                addTransaction(transaction);            
+            }
         }
+        Debug.Log("Finished");
+    }
+
+    void Start()
+    {
+        Debug.Log("Start");
+        start();
+        loadTransaction("69395148");
     }
 }

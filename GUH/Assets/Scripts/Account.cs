@@ -1,22 +1,25 @@
+using System;
 using System.Collections.Generic;
+using UnityEngine;
 
+[Serializable]
 public class Account
 {
-    public string creditScore { get; set; }
-    public string firstname { get; set; }
-    public string liveBalance { get; set; }
-    public string lastname { get; set; }
-    public string accountId { get; set; }
-    public string phoneNumber { get; set; }
-    public string developerId { get; set; }
-    public string balance { get; set; }
-    public string creditLimit { get; set; }
-    public string uci { get; set; }
-    public string riskScore { get; set; }
-    public string state { get; set; }
-    public string currencyCode { get; set; }
-    public string productType { get; set; }
-    public string email { get; set; }
-    public string homeAddress { get; set; }
+    [field: SerializeField] public string creditScore;
+    [field: SerializeField] public string firstname;
+    [field: SerializeField] public string liveBalance;
+    [field: SerializeField] public string lastname;
+    [field: SerializeField] public string accountId;
+    [field: SerializeField] public string phoneNumber;
+    [field: SerializeField] public string developerId;
+    [field: SerializeField] public float balance;
+    [field: SerializeField] public float creditLimit;
+    [field: SerializeField] public string uci;
+    [field: SerializeField] public int riskScore;
+    [field: SerializeField] public string state;
+    [field: SerializeField] public string currencyCode;
+    [field: SerializeField] public string productType;
+    [field: SerializeField] public string email;
+    [field: SerializeField] public string homeAddress;
 }
 
