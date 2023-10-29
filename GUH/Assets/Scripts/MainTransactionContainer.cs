@@ -7,7 +7,7 @@ public class MainTransactioncontainer
 {
     // Start is called before the first frame update
 
-    public Repository repository;
+    
     void Start()
     {
         
