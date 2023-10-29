@@ -40,7 +40,7 @@ public class TableTransactionContainer: MonoBehaviour
     {
         foreach (Transaction transaction in Repository.transactions)
         {
-            if(transaction.accountUUID = accountID)
+            if(transaction.accountUUID == accountID)
             {
                 addTransaction(transaction);            }
         }
