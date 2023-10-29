@@ -7,8 +7,7 @@ public class MainTransactioncontainer
 {
     // Start is called before the first frame update
 
-    public List<Account> accounts;
-    public List<Transaction> transactions;
+    public Repository repository;
     void Start()
     {
         

@@ -15,20 +15,20 @@ public class TableTransactionContainer: MonoBehaviour
         Repository.loadData();
         textProList = new List<TextMeshPro>();
         number = 0;
-        addTransaction();
+        
     }
     
 
     // Update is called once per frame
    void appear()
     {
-        this.hide = false;
+        this.gameObject.SetActive(true);
 
     }
 
     void hide()
     {
-        this.hide = true;
+        this.gameObject.SetActive(false);
     }
 
     void addTransaction(Transaction transaction) {

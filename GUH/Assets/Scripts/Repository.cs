@@ -17,7 +17,7 @@ public static class Repository
 
         transactions=JsonUtility.FromJson<List<Transaction>>(transactionText);
         accounts=JsonUtility.FromJson<List<Account>>(accountText);
-        challanges=JsonUtility.FromJson<List<Transaction>>(challengeText);z
+        challanges=JsonUtility.FromJson<List<Transaction>>(challengeText);
 
 
     }
